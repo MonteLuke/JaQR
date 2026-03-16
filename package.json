@@ -1,0 +1,29 @@
+{
+  "name": "@monteluke/jaqr",
+  "version": "1.0.1",
+  "description": "Dynamic QR Code system Utility",
+  "main": "index.js",
+  "type": "commonjs",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "metadata",
+    "vcard",
+    "sms-uri",
+    "phone-uri",
+    "qr",
+    "dynamic-qr",
+    "sha256",
+    "google-maps-url"
+  ],
+  "author": "MonteLuke",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
