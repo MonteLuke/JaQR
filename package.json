@@ -4,6 +4,14 @@
   "description": "Dynamic QR Code system Utility",
   "main": "index.js",
   "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monteluke/JaQR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monteluke/JaQR/issues"
+  },
+  "homepage": "https://github.com/monteluke/JaQR#readme",
   "files": [
     "index.js",
     "README.md"
